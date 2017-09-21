@@ -6,5 +6,5 @@ sap.ui.generic.app.AppComponent.extend("pststtstviewjs.Component", {
 	metadata: {
 		"manifest": "json"
 	}
-	//comment
+	
 });
